@@ -1,0 +1,10 @@
+.bread-crumps {
+  margin-top: 20px;
+  font-size: 22px;
+  color: $add-text-color;
+
+  @media (max-width: 425px) {
+    margin-top: 10px;
+    font-size: 18px;
+  }
+}
